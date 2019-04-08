@@ -2,6 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-image: url("https://deluxeitaly.eu/wp-content/uploads/2017/11/DucalePalace05.jpg");
+	background-size: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
